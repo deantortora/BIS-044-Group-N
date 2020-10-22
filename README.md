@@ -5,5 +5,5 @@
 #link to the url for the data
 https://github.com/nytimes/covid-19-data
 
-#breif description of the metholodogy
+#brief description of the metholodogy
 
