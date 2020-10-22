@@ -4,3 +4,7 @@
 
 #link to the url for the data
 https://github.com/nytimes/covid-19-data
+
+#breif description of the metholodogy
+We would take the us.csv file from the link and calculate the growth rate of Covid-19 cases in the United States. Then 
+
