@@ -15,6 +15,5 @@ DF$date<-as.Date(DF$date)
 plot(x=DF$date,
       y=DF$cases)
 
-
 #After looking at the visualization shown in the graph from March to November, the number of cases clearly does not decrease. This exponential line indicates that there was never a drop of cases, indicating there can be no second wave. 
 
