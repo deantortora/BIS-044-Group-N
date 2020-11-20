@@ -1,6 +1,6 @@
 #read the csv file and make a data frame
-read.csv("/Users/lucy/~/covid-19-data/us.csv",header = TRUE)
-DF<-read.csv("/Users/lucy/~/covid-19-data/us.csv")
+read.csv("/Users/~/covid-19-data/us.csv",header = TRUE)
+DF<-read.csv("/Users/~/covid-19-data/us.csv")
 
 #view the information of the DF
 class(DF$date)
